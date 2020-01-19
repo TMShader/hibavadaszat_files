@@ -1,1 +1,10 @@
-HALI
+.col-add {
+  padding: 15px;
+  width: 155px;
+  min-width: 155px;
+  max-width: 155px;
+}
+
+.col {
+  padding:15px;
+}
