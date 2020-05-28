@@ -14,3 +14,7 @@ tr {
   padding-bottom: 10px;
   padding-top: 10px;
 }
+
+.from {
+  text-style: bold;
+}
